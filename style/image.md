@@ -21,4 +21,4 @@ home-banner-2.jpg
 
 ## 存放位置
 
-公共资源放入 `src/assets/images/` 中，组件相关的图片资源放入组件目录中。
+公共资源放入 `src/images/` 中。
